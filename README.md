@@ -51,7 +51,7 @@ Once the bot is running and added to your server, simply use:
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 📣 Acknowledgements
 
@@ -68,4 +68,4 @@ If you encounter any issues or have questions, please [open an issue](https://gi
 
 ---
 
-Made with ❤️ by TOM
+Made with ❤️ by tom things
