@@ -1,50 +1,71 @@
-# Lyrics Finder Discord Bot
+# 🎵 Lyrics Finder Discord Bot
 
-Lyrics Finder is a Discord bot that helps users discover and share song lyrics directly in their Discord server.
+Lyrics Finder is a simple Discord bot that brings the world of music lyrics directly to your server. Discover, share, and enjoy song lyrics with ease!
 
-## Features
+## ✨ Features
 
-- Search for songs using artist names, song titles, or lyrics
-- Choose from a list of search results
-- View full, formatted lyrics within Discord
-- Easy to use with a simple slash command: `/lyrics`
+- 🔍 Search for songs by artist, title, or lyrics
+- 📜 View full, formatted lyrics within Discord
+- 🎨 Rich embeds for a visually appealing experience
+- 🚀 Fast and efficient lyrics retrieval
+- 💬 Simple slash command: `/lyrics`
 
-## Setup
+## 🛠️ Setup
 
-1. Clone this repository
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/lyrics-finder-discord-bot.git
+   cd lyrics-finder-discord-bot
+   ```
+
 2. Install dependencies:
    ```
    npm install
    ```
-3. Create a `.env` file in the root directory with the following:
+
+3. Create a `.env` file in the root directory:
    ```
    DISCORD_TOKEN=your_bot_token_here
    CLIENT_ID=your_client_id_here
    GENIUS_ACCESS_TOKEN=your_genius_access_token_here
    ```
+
 4. Run the bot:
    ```
    npm start
    ```
 
-## Usage
+## 🚀 Usage
 
-Once the bot is running and added to your server, use the `/lyrics` command followed by a song or artist name to search for lyrics.
+Once the bot is running and added to your server, simply use:
+   ```
+   /lyrics [song or artist name]
+   ```
 
-## Dependencies
 
-- discord.js
-- axios
-- dotenv
+## 🧰 Tech Stack
 
-## Contributing
+- [discord.js](https://discord.js.org/) - Discord API wrapper
+- [axios](https://axios-http.com/) - HTTP client
+- [dotenv](https://github.com/motdotla/dotenv) - Environment variable management
 
-Contributions, issues, and feature requests are welcome!
+## 📜 License
 
-## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-This project is licensed under the MIT License.
+## 📣 Acknowledgements
 
-## Note
+- [Genius API](https://docs.genius.com/) for providing lyrics data
+- [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) for providing lyrics content
 
-Lyrics are provided for personal use only. Please respect copyright laws and support the artists.
+## ⚠️ Disclaimer
+
+Lyrics are provided for personal use only. Please respect copyright laws !
+
+## 📞 Support
+
+If you encounter any issues or have questions, please [open an issue](https://github.com/toi-et-moi/lyrics-finder/issues) on GitHub.
+
+---
+
+Made with ❤️ by TOM
