@@ -1,5 +1,7 @@
 # 🎵 Lyrics Finder Discord Bot
 
+![Lyrics Finder Bot Logo](readme.png)
+
 Lyrics Finder is a simple Discord bot that brings the world of music lyrics directly to your server. Discover, share, and enjoy song lyrics with ease!
 
 ## ✨ Features
